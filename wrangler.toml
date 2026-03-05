@@ -1,3 +1,2 @@
-name = "cache-worker"
-main = "src/index.js"
-compatibility_date = "2024-03-05"
+# wrangler.toml
+name = 'portfolio-cache'
